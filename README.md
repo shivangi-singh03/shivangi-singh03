@@ -167,7 +167,7 @@ introduces me to real-life application of the skills I've learned in my graduati
     <b> HackerRank | Problem Solving</b>                                 
     <ul>
       <li>
-        <b>Achieved a 5-star rank badge in the assesment of Problem Solving on HackerRank</b>
+        <a>Achieved a 5-star rank badge in the assesment of Problem Solving on HackerRank</a>
       </li>
     </ul>
   </li>
