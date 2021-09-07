@@ -1,25 +1,27 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<a href="https://www.linkedin.com/in/shivangi-singh-7a9242183/"><img src="https://github.com/shivangi-singh03/shivangi-singh03/blob/master/images/Profile%20image.jpg" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/shivangi-singh-7a9242183/"><img src="https://drive.google.com/file/d/1KJ7O8WP2lwz5KjUjT0apVI6dDjCQ09-n/view?usp=sharing" align="right" height="300"></a>
 
 # About myself
 
-A passionate individual who loves building web applications, a developer and musician by passion, an engineer by profession and a photographer by interest.
+I’m a 4th year B.Tech student in the department of Computer Science and Engineering at JUET Guna. I have a strong and growing interest in the field of
+computer sciences ranging from programming algorithms and web development to database management and app development.
 
-The motto of my life is to be determined towards the software world and its development for the betterment in the standard of living of the society.
+The passion to excel and to evolve has always hosted a hungry and foolish soul in me and thus, I am always eager and enthusiastic for an opportunity that
+introduces me to real-life application of the skills I've learned in my graduation.
 
 
 # Experience
 
 <ul>
   <li>
-    <a href="http://www.prashnottar.in/u/">Suven Consultants and Technology</a> - <b>Hybrid Web Applications </b> -                                     <b>June 2021 - Aug 2021</b> 
+    <a href="https://suvenconsultants.com/">Suven Consultants and Technology</a> - <b>Hybrid Web Applications </b> -                                   <a>June 2021 - Aug 2021</a> 
     <ul>
       <li>
-        <b>Developed responsive Web Apps like Calculator, CRUD App with Angular - Php & MySQL and an ECommerce site</b>
+        <a>Developed responsive Web Apps like Calculator, CRUD App with Angular - Php & MySQL and an ECommerce site</a>
       </li>
       <li>
-        <b>Used HTML 5, CSS 3 and Typescript along with angular framework for the development</b>
+        <a>Used HTML 5, CSS 3 and Typescript along with angular framework for the development</a>
       </li>
     </ul>
   </li>
@@ -27,13 +29,13 @@ The motto of my life is to be determined towards the software world and its deve
 
 <ul>
   <li>
-    <a href="http://www.prashnottar.in/u/">Prashnottar Private Limited</a> - <b>Full Stack Development</b> -                                             <b>Aug 2020 - Oct 2020</b> 
+    <a href="http://www.prashnottar.in/u/">Prashnottar Private Limited</a> - <b>Full Stack Development</b> -                                             <a>Aug 2020 - Oct 2020</a> 
     <ul>
       <li>
-        <b>Handled the Full stack development of the dashboard portal and worked for the Full stack development of the company’s website</b>
+        <a>Handled the Full stack development of the dashboard portal and worked for the Full stack development of the company’s website</a>
       </li>
       <li>
-        <b>Developed using CSS, HTML, Php, MySQL and JavaScripts to enhance functionality and user experience on web pages</b>
+        <a>Developed using CSS, HTML, Php, MySQL and JavaScripts to enhance functionality and user experience on web pages</a>
       </li>
     </ul>
   </li>
@@ -42,14 +44,58 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Projects
 
-- [EntreSpace Website](https://entrespace.in/)
-- [Aaradhya Services Website](https://aaradhyaservices.in/)
-- [InternXpo 2021 Website](http://iste.siesgst.ac.in/)
-- [Ideation 2020 Website](http://ideation.techxter.in/)
-- [Google Search Landing Page](https://anirudhbelwadi.com/Google-Landing-Page/)
-- [Soundlogy - Genre Detection Application using Machine Learning](https://github.com/anirudhbelwadi/music-application-using-machine-learning)
-- [NETFLIX clone](https://netflix-clone-63163.web.app/)
-- [Gist. Social Media Website](https://github.com/anirudhbelwadi/Gist.-Social-Media-website)
+<ul>
+  <li>
+    <b> Expense Tracker</b>  -     <a>Jan 2021 - May 2021</a> 
+    <ul>
+      <li>
+        <a>The application keeps a track of the savings and budget and produce a static report of the user’s expenses</a>
+      </li>
+      <li>
+        <a>Designed using the Android Studio IDE, involved XML with Java and Google Firebase for backend</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b> E-commerce Website, Course Project</b>   -               <a>Jan 2021 - May 2021</a> 
+    <ul>
+      <li>
+        <a>Developed a basic e-commerce website using HTML, CSS, Bootstrap, Php, MySQL and Xampp</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b> Smart Price</b> -                                      <a>Aug 2020 - Nov 2020</a> 
+    <ul>
+      <li>
+        <a>The website compares the price of electronic products on different e-commerce websites</a>
+      </li>
+      <li>
+        <a>Developed using HTML, CSS, JavaScript and applied concepts of web scrapping using the php libraries</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b> Phone Book</b> -                                           <a>Sep 2019 - Nov 2019</a> 
+    <ul>
+      <li>
+        <a>Contemplated and implemented a phonebook and consolidated its logic using python’s Graphic User Interface (GUI)</a>
+      </li>
+      <li>
+        <a>Developed and debugged the structured SQL queries in python for the low-level manipulation of the data</a>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 # Tech Stack
 
@@ -94,28 +140,44 @@ The motto of my life is to be determined towards the software world and its deve
 
 # Licences and Certifications
 
-- [Bugsquash - a 72 hour Online Project Building Competition](https://drive.google.com/file/d/1Fr8_9unEv_wTL-XKSomTqU1P2wVBykRU/view?usp=sharing)
-- [HackerRank Problem Solving Skills](https://www.hackerrank.com/anirudh_belwadi)
-- [Python Programming - MyCaptain](https://drive.google.com/file/d/16Mce4eaoFY7ZRBlPz6tjbODy_RCH_qGK/view)
-- [Skill Badges in Qwiklabs](https://google.qwiklabs.com/public_profiles/c5d56831-78d1-4981-bde6-a2fb42576042)
-- [MetaCTF CyberGames 2020 Participation](https://drive.google.com/file/d/1Uijh4inUfXJo93oLlmL70uoEJ_jPbsTF/view)
-- [AWS Builders Online Series](https://drive.google.com/file/d/1fnzVgtJMJEY9A_qigD1lqVokC82uI-BU/view)
-- [Amazon S3 Primer](https://drive.google.com/file/d/1unL6rR-2voL36FmWxZKD0L1Ggr057rBj/view)
-- [Introduction to Amazon S3](https://drive.google.com/file/d/1VoNjAo5m7TwcZOS9kAz-uwircQEtPTDR/view)
+- [SQL](https://drive.google.com/file/d/1sb0rUWy2-lyTp1r36yKP3CvUwp9P33KU/view?usp=sharing)
+- [Java](https://drive.google.com/file/d/1zgXR-BtqLIulyINl92qTtL_ZoqyzD3LV/view?usp=sharing)
+- [Introduction to HTML5](https://drive.google.com/file/d/1MGW12l3jDKLaKy1ClDwNjNRiKdnCA8MB/view?usp=sharing)
+- [Algorithmic Toolbox](https://drive.google.com/file/d/1rPR7oZXODT-hhZTHYH1vedMKsYTmE9YG/view?usp=sharing)
+- [Build Your First Android App](https://drive.google.com/file/d/1BO1RkxLNDaudbu9_GAH4Hu_ue_4nW6mD/view?usp=sharing)
+- [Introduction to Javascript: The Basics](https://drive.google.com/file/d/1tlFL85dAXTezzZ54Tv2Be9VvJSspo2A0/view?usp=sharing)
+- [The Fundamentals of Digital Marketting](https://drive.google.com/file/d/17yOv1DNfoNUvQaZ0Xv09bNk70LuYh3zW/view?usp=sharing)
+- [Programming for Everybody (Getting Started with Python)](https://drive.google.com/file/d/1J0JnYsoIZr5NVpzzNXN6wDb1IQLhMdlt/view?usp=sharing)
 
-# Skills
+# Technical Activities
 
-- Full Stack Web Development
-- Music (Trained Carnatic classical singer, Hindustani classical keyboardist, Western classical pianist and guitarist)
-- Photography
-- Adobe softwares
+<ul>
+  <li>
+    <b> Kodeathon | Competitive Coding</b>          
+    <ul>
+      <li>
+        <a>Ranked 14th amongst all branches all Jaypee with more than 300 students participating</a>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<ul>
+  <li>
+    <b> HackerRank | Problem Solving</b>                                 
+    <ul>
+      <li>
+        <b>Achieved a 5-star rank badge in the assesment of Problem Solving on HackerRank</b>
+      </li>
+    </ul>
+  </li>
+</ul>
 
 # Quick Links
 
 <a href="https://www.linkedin.com/in/shivangi-singh-7a9242183/"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/linkedin.png"></a>&nbsp;&nbsp;
-<a href="https://anirudhbelwadi.com/assets/docs/Anirudh%20Srinath%20Belwadi%20-%20Resume.pdf"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/1KLePkbEQFjdY6a2ku52tCECHfNxs62cB/view?usp=sharing"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/resume.png"></a>&nbsp;&nbsp;
 <a href="mailto:singhshivangi9002@gmail.com"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/email.png"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/anirudh.belwadi"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/BelwadiAnirudh"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/shivangi.rajput.54922"><img height="30" src="https://github.com/anirudhbelwadi/anirudhbelwadi/blob/master/images/facebook.png"></a>&nbsp;&nbsp;
 
 
