@@ -124,13 +124,13 @@ introduces me to real-life application of the skills I've learned in my graduati
   </tr>
   <tr>
     <td>Indian School Certificate</td>
-    <td><a href="http://thelps.edu.in/">Luckow Public School</a></td>
+    <td><a href="http://lucknowpublicschoolsandcolleges.com/">Luckow Public School</a></td>
     <td>2017</td>
     <td>89.20%</td>
   </tr>
   <tr>
     <td>Indian Certificate of Secondary Education</td>
-    <td><a href="http://thelps.edu.in/">Lucknow Public School</a></td>
+    <td><a href="http://lucknowpublicschoolsandcolleges.com/">Lucknow Public School</a></td>
     <td>2015</td>
     <td>90.83%</td>
   </tr>
