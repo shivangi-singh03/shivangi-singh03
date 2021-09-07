@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-<a href="https://www.linkedin.com/in/shivangi-singh-7a9242183/"><img src="https://drive.google.com/file/d/1KJ7O8WP2lwz5KjUjT0apVI6dDjCQ09-n/view?usp=sharing" align="right" height="300"></a>
+<a href="https://www.linkedin.com/in/shivangi-singh-7a9242183/"><img src="images/WhatsApp Image 2021-09-08 at 00.49.03.jpeg" align="right" height="300"></a>
 
 # About myself
 
